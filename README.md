@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects you can see in my pinned pushpin projects here.
 
-- 👨‍💻 My portfolio is available at [link for githubpages](link for githubpages)
-
 - 📫 How to reach me **bechstedt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
